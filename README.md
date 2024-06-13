@@ -3,9 +3,7 @@ Web Programming
 # Website Project README
 
 ## Overview
-This project is a website built using React for the front end, Node.js for the backend, and MongoDB for the database. It aims to [briefly describe the purpose or goal of the website project].
-
-## Installation
+This project is a website built using React for the front end, Node.js for the backend, and MongoDB for the database. 
 1. Clone the repository:
 2. Navigate to the project directory:
 3. Install dependencies for both the front end and the backend:
